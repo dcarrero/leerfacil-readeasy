@@ -1,6 +1,6 @@
-# [Bionify - Read Faster!](https://bionify.xyz)
+# [Leer Fácil / Read Easy - Read Faster!](https://leerfacil.com)
 
-**LEGAL NOTICE:** To the _wonderful_ folks at Bionic Reading®, this is not a pirated version of your Bionic Reading® API, but rather a simple algorithm I developed in conjunction with other open source developers. It does NOT violate your precious Bionic Reading® copyrights.
+**LEGAL NOTICE:** To the _wonderful_ folks at Bionic Reading®, this is not a pirated version of your Bionic Reading® API, but rather a simple algorithm I developed in conjunction with other open source developers. It does NOT violate your precious Bionic Reading® copyrights. And this is a Bionify fork from Cveinnt Open Source Development.
 
 [![banner](src/icons/marquee.png)](https://chrome.google.com/webstore/detail/bionify-read-faster-with/gomhfpbcjfidhpffhecghfdieincgncc)
 
@@ -8,7 +8,7 @@ A simple chrome extension designed to help you read faster and more efficiently.
 
 Here's an example of Bionified text to demonstrate the speed!
 
-[![read](read.png)](https://bionify.xyz)
+[![read](read.png)](https://leerfacil.com)
 
 (example text from jiffy reader)
 
